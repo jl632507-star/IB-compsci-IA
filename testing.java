@@ -1,1 +1,2 @@
-
+int j = 0;
+System.out.println(j);
